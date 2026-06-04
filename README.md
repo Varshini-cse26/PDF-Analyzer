@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack PDF Analyzer Web Application (Express + Vite + React + Gemini AI)
 
 A production-ready full stack web application where users can analyze publicly accessible PDF documents and receive highly accurate, AI-generated structured analysis summaries, key takeaways, page counts, and characters extracted, powered natively by the Gemini 3.5 API and Node-equivalent PDFBox standards.
@@ -181,3 +182,6 @@ Analyze remote PDF documents.
     "message": "Failed to extract text from the PDF file: Invalid PDF structure."
   }
   ```
+=======
+# PDF-Analyzer
+>>>>>>> 4b681697b2ed16963aaec97d26d96cbaa1e336ae
