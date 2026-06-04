@@ -1,0 +1,6 @@
+{
+  "name": "PDF Analyzer",
+  "description": "Analyze publicly accessible PDF documents and get structured, AI-generated summaries, key takeaways, and metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
